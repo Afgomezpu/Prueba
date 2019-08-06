@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba;
+package Modelo;
 
 /**
  *
  * @author 57318
  */
-public class BarcoEnemigo extends Enemigo{
-  
+public class Enemigo {
+     int peligrosidad=0;
+   int vida=0;
 }

@@ -3,22 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba;
+package Modelo;
 
 /**
  *
  * @author 57318
  */
-public class Prueba {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-   
-        
-        int hol=12324;
-    
-    }
+public class Monstruo {
     
 }

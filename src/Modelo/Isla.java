@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba;
+package Modelo;
+
+import Modelo.Esclavo;
+import java.util.LinkedList;
 
 /**
  *
  * @author 57318
  */
-public class Continente {
-    
+public class Isla {
+    String nombre="";
+    LinkedList<Esclavo> Esclavos;
 }

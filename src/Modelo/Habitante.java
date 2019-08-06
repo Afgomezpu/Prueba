@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba;
-
-import java.util.LinkedList;
+package Modelo;
 
 /**
  *
  * @author 57318
  */
-public class Barco {
-    LinkedList<Esclavo> Esclavos;
+public class Habitante {
     
 }

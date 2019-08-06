@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba;
+package Modelo;
 
 /**
  *
  * @author 57318
  */
-public class Monstruo {
-    
+public class Esclavo {
+    String TipoEsclavo ="";
+    double Tiempo=0;
 }
